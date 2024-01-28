@@ -1,0 +1,204 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Baxter Williams",
+      "email": "baxwill123@gmail.com"
+    }  ,
+    {
+      "id": 2,
+      "fullName": "Becky Hudson",
+      "email": "becky.hudson@mbmc.org"
+    }
+  ],
+  "properties": [
+    {
+      "id": 1,
+      "address": "123 Main Street, Nashville, TN, 37211",
+      "square footage": 2412,
+      "numFloors": 1,
+      "yearBuilt": 2022,
+      "centralHVAC": "Yes",
+      "spectic": "False",
+      "garage": "Attached-Enclosed",
+      "userId": 2
+    },
+    {
+      "id": 2,
+      "address": "895 Maple Avenue, Nashville, TN, 37211",
+      "square footage": 1580,
+      "numFloors": 1,
+      "yearBuilt": 1987,
+      "centralHVAC": "Yes",
+      "spectic": "False",
+      "garage": "Attached-Carport",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "address": "923 Maple Avenue, Nashville, TN, 37211",
+      "square footage": 1479,
+      "numFloors": 1,
+      "yearBuilt": 1987,
+      "centralHVAC": "No",
+      "spectic": "False",
+      "garage": "Attached-Carport",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "address": "827 Maple Avenue, Nashville, TN, 37211",
+      "square footage": 1945,
+      "numFloors": 2,
+      "yearBuilt": 1988,
+      "centralHVAC": "Upstairs-Only",
+      "spectic": "False",
+      "garage": "Attached-Enclosed",
+      "userId": 1
+    }
+  ],
+  "inspections": [
+    {
+      "id": 1,
+      "interior": "False",
+      "description": "Gutter/Downspouts",
+      "season": "Spring"
+    },
+    {
+      "id": 2,
+      "interior": "False",
+      "description": "Landscaping",
+      "season": "Spring"
+    },
+    {
+      "id": 3,
+      "interior": "False",
+      "description": "Patio/Deck",
+      "season": "Spring"
+    },
+    {
+      "id": 4,
+      "interior": "False",
+      "description": "Faucets",
+      "season": "Spring"
+    },
+    {
+      "id": 5,
+      "interior": "True",
+      "description": "HVAC Air Filter Replacement",
+      "season": "Spring"
+    },
+    {
+      "id": 6,
+      "interior": "True",
+      "description": "Faucets/Drains",
+      "season": "Spring"
+    },
+    {
+      "id": 7,
+      "interior": "False",
+      "description": "Roof",
+      "season": "Summer"
+    },
+    {
+      "id": 8,
+      "interior": "False",
+      "description": "Expterior Paint/Caulk",
+      "season": "Summer"
+    },
+    {
+      "id": 9,
+      "interior": "False",
+      "description": "Window Cleaning",
+      "season": "Summer"
+    },
+    {
+      "id": 10,
+      "interior": "False",
+      "description": "Driveway",
+      "season": "Summer"
+    },
+    {
+      "id": 11,
+      "interior": "True",
+      "description": "HVAC Air Filter Replacement",
+      "season": "Summer"
+    },
+    {
+      "id": 12,
+      "interior": "True",
+      "description": "Interior Paint/Caulk",
+      "season": "Summer"
+    },
+    {
+      "id": 13,
+      "interior": "True",
+      "description": "Window Cleaning",
+      "season": "Summer"
+    },
+    {
+      "id": 14,
+      "interior": "False",
+      "description": "Gutter/Downspouts",
+      "season": "Fall"
+    },
+    {
+      "id": 15,
+      "interior": "False",
+      "description": "Landscaping",
+      "season": "Fall"
+    },
+    {
+      "id": 16,
+      "interior": "False",
+      "description": "Pipe Insulation",
+      "season": "Fall"
+    },
+    {
+      "id": 17,
+      "interior": "True",
+      "description": "Weatherproofing Doors/Windows",
+      "season": "Fall"
+    },
+    {
+      "id": 18,
+      "interior": "True",
+      "description": "HVAC Air Filter Replacement",
+      "season": "Fall"
+    },
+    {
+      "id": 19,
+      "interior": "True",
+      "description": "Faucets/Drains",
+      "season": "Fall"
+    },
+    {
+      "id": 20,
+      "interior": "False",
+      "description": "Ice/Snow Damage",
+      "season": "Winter"
+    },
+     {
+      "id": 21,
+      "interior": "True",
+      "description": "HVAC Air Filter Replacement",
+      "season": "Winter"
+    },
+    {
+      "id": 22,
+      "interior": "True",
+      "description": "Smoke/Carbon Monoxide Detectors",
+      "season": "Winter"
+    },
+    {
+      "id": 23,
+      "interior": "True",
+      "description": "Attic Insulation",
+      "season": "Winter"
+    }
+  ],
+  "maintenances": [
+  ],
+  "vendors": [
+      ]
+}
